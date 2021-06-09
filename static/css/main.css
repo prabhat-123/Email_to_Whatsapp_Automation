@@ -1,0 +1,27 @@
+.help
+{
+    background-color:#eee8e9ea !important;
+    height:100%;
+    width:100%;
+    align-content: center;
+
+}
+h1
+{
+    font-size: 40px;
+    font-family: 'Calibri';
+    color: #0a0a0a;
+}
+h2
+{
+    font-size:30px;
+    color:red;
+}
+
+
+h3
+{
+    font-size:20px;
+    font-family: 'Times New Roman';
+    color: purple;
+}
